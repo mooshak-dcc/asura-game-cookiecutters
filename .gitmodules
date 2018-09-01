@@ -1,0 +1,3 @@
+[submodule "asura-game-maven-cookiecutter"]
+	path = asura-game-maven-cookiecutter
+	url = git@github.com:mooshak-dcc/asura-game-maven-cookiecutter.git
